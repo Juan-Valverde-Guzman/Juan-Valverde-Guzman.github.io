@@ -710,6 +710,8 @@ a:hover{
 
     height: auto;
 
+    margin-bottom: 25px;
+
 }
 
 .telefono{
@@ -726,7 +728,13 @@ a:hover{
 
     height: auto;
 
-    margin-bottom: 25px;
+}
+
+.linkedin{
+
+    width: auto;
+
+    height: auto;
 
 }
 
